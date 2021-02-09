@@ -28,17 +28,32 @@ Create Hangman app
 
 ### Step 2
 
-1. Open the js file and create an array of 20 random numbers. The values between should be between 0-100
-2. Using the 'getElementById' method, print all scores to the webpage
-3. Add *total number of students* to the output
+Create array of possible words and pick one
+
+### Step 3 
+
+Ask user to pick letter
+
+### Step 4
+
+Diplay game state on screen
+
+### Step 5
+
+Continue until game over
 
 
 
 ## Activity 2 - Hangman continued
 
-Continue Hangman app
+Expand Hangman app
 
 ### Objective
 
-* add score based correct guesses
-* Create ability for 2 people to play
+### Step 1
+
+Add score based correct guesses
+
+### Step 3
+
+Create ability for 2 people to play
