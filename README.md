@@ -26,19 +26,19 @@ Create Hangman app
 10. Use git to add/commit/push the changes
 11. All members use `git pull` to pull down the changes from the remote repository
 
-### Step 2
+### Step 1
 
 Create array of possible words and pick one
 
-### Step 3 
+### Step 2 
 
 Ask user to pick letter
 
-### Step 4
+### Step 3
 
 Diplay game state on screen
 
-### Step 5
+### Step 4
 
 Continue until game over
 
@@ -54,6 +54,6 @@ Expand Hangman app
 
 Add score based correct guesses
 
-### Step 3
+### Step 2
 
 Create ability for 2 people to play
